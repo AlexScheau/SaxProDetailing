@@ -1,0 +1,72 @@
+# =======================================================
+#  robots.txt — SAX PRO Detailing Studio
+#  SEO: detailing auto, polish auto, ceramic coating,
+#       PPF auto, curatare interior auto, [ORAS]
+#  INLOCUIESTE: https://www.DOMENIU-TAU.ro cu domeniul real
+#  Ultima actualizare: 2026-05-22
+# =======================================================
+
+# ── Google Search ──────────────────────────────────────
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2
+
+# ── Google Image Search (important pt galerie) ─────────
+User-agent: Googlebot-Image
+Allow: /
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.webp
+
+# ── Google AdsBot (anunturi platite) ───────────────────
+User-agent: AdsBot-Google
+Allow: /
+
+# ── Bingbot (Microsoft / Yahoo) ────────────────────────
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 3
+
+# ── Slurp (Yahoo Search) ───────────────────────────────
+User-agent: Slurp
+Allow: /
+Crawl-delay: 3
+
+# ── DuckDuckBot ────────────────────────────────────────
+User-agent: DuckDuckBot
+Allow: /
+
+# ── Yandex (trafic din Europa de Est) ──────────────────
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 5
+
+# ── Facebook / Instagram (previzualizare link) ─────────
+User-agent: facebookexternalhit
+Allow: /
+
+# ── Twitter / X ────────────────────────────────────────
+User-agent: Twitterbot
+Allow: /
+
+# ── LinkedIn ───────────────────────────────────────────
+User-agent: LinkedInBot
+Allow: /
+
+# ── WhatsApp (previzualizare link) ─────────────────────
+User-agent: WhatsApp
+Allow: /
+
+# ── Toate celelalte crawlere legitime ──────────────────
+User-agent: *
+Allow: /
+
+# ── Pagini blocate (nu exista date private) ────────────
+# Disallow: /admin/
+# Disallow: /private/
+
+# =======================================================
+#  SITEMAP — indexeaza toate paginile
+# =======================================================
+Sitemap: https://www.DOMENIU-TAU.ro/sitemap.xml

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml — SAX PRO Detailing Studio
+  Cuvinte cheie SEO acoperite:
+    detailing auto, polish auto, ceramic coating, PPF auto,
+    curatare interior auto, corecție vopsea, detailing auto pret,
+    spalare auto profesionala, protectie ceramica auto
+  INLOCUIESTE: https://www.DOMENIU-TAU.ro cu domeniul real
+  Ultima actualizare: 2026-05-22
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+          http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- ══ Homepage — Detailing Auto Profesional ══ -->
+  <!-- Cuvinte cheie: detailing auto, polish auto, ceramic coating, PPF -->
+  <url>
+    <loc>https://www.DOMENIU-TAU.ro/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- ══ Servicii — Polish, Ceramic, PPF, Interior ══ -->
+  <!-- Cuvinte cheie: polish auto, protectie ceramica, PPF auto, curatare interior -->
+  <url>
+    <loc>https://www.DOMENIU-TAU.ro/servicii.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- ══ Pachete & Prețuri ══ -->
+  <!-- Cuvinte cheie: detailing auto pret, pachete detailing, oferta detailing -->
+  <url>
+    <loc>https://www.DOMENIU-TAU.ro/pachete.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ══ Galerie Before/After ══ -->
+  <!-- Cuvinte cheie: galerie detailing auto, before after auto, rezultate polish -->
+  <url>
+    <loc>https://www.DOMENIU-TAU.ro/galerie.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- ══ Contact & Programare ══ -->
+  <!-- Cuvinte cheie: programare detailing auto, contact detailing, detailing auto [oras] -->
+  <url>
+    <loc>https://www.DOMENIU-TAU.ro/contact.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
